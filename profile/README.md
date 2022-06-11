@@ -3,5 +3,5 @@
 </p>
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/980038681828151306/985189229451698196/projects.png" alt="Header" width="200"/>
+  <img src="https://media.discordapp.net/attachments/980038681828151306/985189229451698196/projects.png" alt="Header" width="500"/>
 </p>

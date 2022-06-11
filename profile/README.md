@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/QQN4dnG/projectri1.png" alt="Header"/>
+  <img src="https://i.ibb.co/QQN4dnG/projectri1.png" alt="Header" width="8000"/>
 </p>
 
 <p align="left">
